@@ -1,4 +1,4 @@
-# Laravel Passport 
+# Sample Laravel Passport 
 
 - A Practice in implementing Laravel passport
 
